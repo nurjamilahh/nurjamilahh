@@ -46,7 +46,9 @@ I'm a passionate **Software Engineering Student**, balancing my journey as a gra
 
 ---
 
-### 📫 Connect with me
+### 📫 Contact & Connect 
+Terima kasih telah melihat catatan belajar saya! Jika ada pertanyaan/diskusi, saya di:
+
 <p align="left">
   <a href="https://github.com/nurjamilahh">
     <img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30">
@@ -61,4 +63,6 @@ I'm a passionate **Software Engineering Student**, balancing my journey as a gra
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30">
   </a>
 </p>
+
+
 
