@@ -15,25 +15,38 @@ I'm a passionate **Software Engineering Student**, balancing my journey as a gra
 
 ### 🛠️ Tech Stack & Tools
 
-**Currently Using & Mastering**
+**Core Languages & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Front-end Development**
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-**On My Roadmap**
+**Engineering & Best Practices**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Complexity%20Analysis-800080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Front--end%20Infrastructure-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Integrating%20AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+**🚀 On My Roadmap**
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit%20Testing%20%26%20Deployment-E0234E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Models%20%26%20Authentication-E0234E?style=for-the-badge" />
 </p>
 
 ---
@@ -41,8 +54,8 @@ I'm a passionate **Software Engineering Student**, balancing my journey as a gra
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurjamilahh&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur Jamilah's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjamilahh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurjamilahh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nur Jamilah's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjamilahh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -50,19 +63,12 @@ I'm a passionate **Software Engineering Student**, balancing my journey as a gra
 ### 📫 Contact & Connect 
 
 <p align="left">
-  <a href="https://github.com/nurjamilahh">
-    <img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30">
-  </a>
-  <a href="https://linkedin.com/in/nur-jamilah-harahap" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:worknurjam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30">
-  </a>
-  <a href="https://wa.me/6285782602672">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30">
-  </a>
+  <a href="https://github.com/nurjamilahh"><img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30"></a>
+  <a href="https://linkedin.com/in/nur-jamilah-harahap" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+  <a href="mailto:worknurjam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"></a>
+  <a href="https://wa.me/6285782602672"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"></a>
 </p>
+ 
 
 
 
