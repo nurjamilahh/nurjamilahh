@@ -5,7 +5,7 @@
 </p>
 
 ### 🌟 About Me
-I'm a passionate **Software Engineering Student**, balancing my journey as a grandmother of one (soon to be two!) with my love for building great software. I believe that it's never too late to learn and create something meaningful through code.
+I'm a passionate **Software Engineering Student**, balancing my journey as a grandmother of one (soon to be two!) with my love for bringing ideas to life through technology. I believe that it's never too late to learn and create something meaningful through code.
 
 - 🔭 I’m currently focused on **Nurjam Projects**.
 - 🌱 I’m mastering **Fullstack Software Engineering** to stay ahead of the curve.
