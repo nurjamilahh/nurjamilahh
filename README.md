@@ -53,9 +53,9 @@ I'm a passionate **Software Engineering Student**, balancing my journey as a gra
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurjamilahh&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur Jamilah's Stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurjamilahh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurjamilahh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurjamilahh&layout=compact&theme=tokyonight&hide_border=true&hide=html&langs_count=10" alt="Top Languages" height="150" />
 </p>
 
 ---
