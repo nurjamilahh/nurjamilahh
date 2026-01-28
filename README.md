@@ -1,5 +1,4 @@
-# Hi, I'm Nur Jamilah 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
+# Hi, I'm Nur Jamilah 👋 
 ### About Me
 As a former Software Engineering student turned independent developer, I've traded the classroom for real-world building. **As a grandmother of two**, I bring a unique perspective, seasoned dedication, and a wealth of life experience to every project.
 
@@ -32,7 +31,7 @@ With my professional background as an **Asset Manager**, I don't just write code
 
 ---
 
-### My GitHub Journey
+### My GitHub Journey ![Visitor Count](https://komarev.com/ghpvc/?username=nurjamilahh&color=blue)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nurjamilahh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
