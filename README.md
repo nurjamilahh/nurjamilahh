@@ -31,8 +31,7 @@ With my professional background as an **Asset Manager**, I don't just write code
 
 ---
 
-### My GitHub Journey ![Visitor Count](https://komarev.com/ghpvc/?username=nurjamilahh&color=blue)
-
+### My GitHub Journey ![Visitor Count](https://komarev.com/ghpvc/?username=nurjamilahh&color=C586C0)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nurjamilahh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjamilahh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
