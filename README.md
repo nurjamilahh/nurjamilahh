@@ -1,12 +1,12 @@
-# Hi, I'm Nur Jamilah 👋 
+# Hi, I'm kak Nur 👋 
 ### About Me
 As a former Software Engineering student turned independent developer, I've traded the classroom for real-world building. **As a grandmother of two**, I bring a unique perspective, seasoned dedication, and a wealth of life experience to every project.
 
 With my professional background as an **Asset Manager**, I don't just write code; I optimize it. I believe that coding is a lifelong journey of creation, and I apply the same rigor of **Complexity Analysis** to my code as I do to my portfolios—ensuring every line is a high-performing asset.
 
-* 🔭 **Currently focused on:** Nurjam Projects.
-* 🌱 **Mastering:** Fullstack Software Engineering to build impactful and efficient solutions.
-* 🍼 **Fun fact:** While waiting for my second grandchild, I’m busy birthing new lines of code!
+* 🔭 Currently on: Vacation until mid-February 2026! *Then I'll be back working on **Nurjam Projects***.
+* 🌱 Learning: Fullstack Development (Still a beginner, but enjoy the process!)
+* 🍼 Fun fact: While waiting for my second grandchild, I’m busy birthing new lines of code!
 
 ---
 
@@ -50,6 +50,8 @@ Feel free to reach me out for collaborations or just a friendly hello!
 </p>
  
 ---
-<p align="center">"Regardless of when you start, coding is a journey of continuous creation."</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=20&pause=1000&color=C586C0&center=true&vCenter=true&width=600&lines=Sayangilah+dirimu....+💜;sehingga+menjadi+hadiah+yang+terindah+bagi+orang-orang+yang+menyayangimu." alt="Typing SVG" />
+</p>
 
