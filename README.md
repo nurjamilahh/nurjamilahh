@@ -1,4 +1,4 @@
-# Hi, I'm Nur Jamilah 👋
+# Hi, I'm Nur Jamilah 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ### About Me
 As a former Software Engineering student turned independent developer, I've traded the classroom for real-world building. **As a grandmother of two**, I bring a unique perspective, seasoned dedication, and a wealth of life experience to every project.
