@@ -35,20 +35,9 @@ With my professional background as an **Asset Manager**, I don't just write code
 
 | Activity Stats | Public Repo Traffic |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=nurjamilahh&show_icons=true&title_color=C586C0&icon_color=C586C0&text_color=777777&bg_color=00000000&hide_border=true" width="350" /> | **Rocket Game** <br> ![Rocket](https://komarev.com/ghpvc/?username=nurjamilahh-rocket&color=C586C0&style=flat-square) <br><br> **Audio Library** <br> ![Audio](https://komarev.com/ghpvc/?username=nurjamilahh-audio-lib&color=C586C0&style=flat-square)|
+| <img src="https://github-readme-stats.vercel.app/api?username=nurjamilahh&show_icons=true&title_color=C586C0&icon_color=C586C0&text_color=777777&bg_color=00000000&hide_border=true" width="350" /> | **Rocket Game** <br> ![Rocket](https://komarev.com/ghpvc/?username=nurjamilahh-rocket&color=C586C0&style=flat-square) <br><br> **Fade-In Audio** <br> ![Fade-In](https://komarev.com/ghpvc/?username=nurjamilahh-audio-lib&color=C586C0&style=flat-square)|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjamilahh&layout=compact&title_color=C586C0&icon_color=C586C0&text_color=777777&bg_color=00000000&hide_border=true" width="350" /> | **Mermaid Flowchart** <br> ![Mermaid](https://komarev.com/ghpvc/?username=nurjamilahh-mermaid&color=C586C0&style=flat-square) <br><br> **Next.js App** <br> ![NextJS](https://komarev.com/ghpvc/?username=nurjamilahh-nextjs&color=C586C0&style=flat-square)|
 
----
-
-### Contact & Connect 
-Feel free to reach me out for collaborations or just a friendly hello!
-</p>
-  <a href="https://github.com/nurjamilahh"><img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30"></a>
-  <a href="https://linkedin.com/in/nur-jamilah-harahap" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
-  <a href="mailto:worknurjam@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/6285782602672"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"></a>
-</p>
- 
 ---
 
 <p align="center">
