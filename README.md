@@ -1,12 +1,12 @@
 # Hi, I'm kak Nur 👋 
 ### About Me
-As a former Software Engineering student turned independent developer, I've traded the classroom for real-world building. **As a grandmother of two**, I bring a unique perspective, seasoned dedication, and a wealth of life experience to every project.
+As a former Software Engineering student turned independent developer, I've traded the classroom for real-world building. As a grandmother, I bring a unique perspective, seasoned dedication, and a wealth of life experience to every project.
 
 With my professional background as an **Asset Manager**, I don't just write code; I optimize it. I believe that coding is a lifelong journey of creation, and I apply the same rigor of **Complexity Analysis** to my code as I do to my portfolios—ensuring every line is a high-performing asset.
 
-* 🔭 Currently on: Vacation until mid-February 2026! *Then I'll be back working on **Nurjam Projects***.
-* 🌱 Learning: Fullstack Development (Still a beginner, but enjoy the process!)
-* 🍼 Fun fact: While waiting for my second grandchild, I’m busy birthing new lines of code!
+* 🔭 Currently working on: Nurjam Projects (Back in full swing!).
+* 🌱 Learning: Full-stack Development (Still a beginner, but enjoy the process!)
+* 🍼 Fun fact: My second grandchild was born this past March, and now I’m back to "birthing" new lines of code!
 
 ---
 
